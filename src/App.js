@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Join from "./components/Join";
 import Navbar from "./components/Navbar";
-import Testimonials from "./components/Testimonials";
+import Testi from "./components/Testi";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Hero />
       <CardHero />
       <BoxSec />
-      <Testimonials />
+      <Testi />
       <Accordian/>
       <Join/>
       <Footer/>
