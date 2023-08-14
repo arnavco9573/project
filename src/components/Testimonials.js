@@ -39,8 +39,6 @@ const Testimonials = ({ items }) => {
               </p>
             </div>
           ))}
-
-          
         </div>
       </div>
     </section>
